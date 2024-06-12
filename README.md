@@ -19,4 +19,4 @@ This task enables the use of Twitter on a large scale not only for epidemiologic
 
 This paper presents our approaches for the SMM4H’24 Shared Task 5 on the binary classification of English tweets reporting children’s medical disorders. Our first approach involves fine-tuning a single RoBERTa-large model, while the second approach entails ensembling the results of three fine-tuned BERTweet-large models. We demonstrate that although both approaches exhibit identical performance on validation data, the BERTweet-large ensemble excels on test data. Our best-performing system achieves an F1-score of 0.938 on test data, outperforming the benchmark classifier by 1.18%.
 
-Our paper link is here: [Link to paper]
+Our paper link is here: https://www.medrxiv.org/content/10.1101/2024.06.11.24308776v1
