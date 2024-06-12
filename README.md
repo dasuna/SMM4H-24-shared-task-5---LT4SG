@@ -14,3 +14,9 @@ This task enables the use of Twitter on a large scale not only for epidemiologic
 | 1418466938389352451 | Can u give any tips to "live with it" please. I think my son has ADD. Trying to help him                                                                                      | 0     |
 | 1357889939283795969 | Flying tomorrow...during a pandemic with a nonverbal 3 year old. We could use some prayers, please.😝🥴                                                                         | 1     |
 | 1473729432946884627 | So Maxine Waters can be maskless on a plane but I can't fly with my 2 year old cause she won't wear a mask? Kids with autism are being banned from flying because they won't wear a mask? | 0     |
+
+## Approaches for SMM4H’24 Shared Task 5
+
+This paper presents our approaches for the SMM4H’24 Shared Task 5 on the binary classification of English tweets reporting children’s medical disorders. Our first approach involves fine-tuning a single RoBERTa-large model, while the second approach entails ensembling the results of three fine-tuned BERTweet-large models. We demonstrate that although both approaches exhibit identical performance on validation data, the BERTweet-large ensemble excels on test data. Our best-performing system achieves an F1-score of 0.938 on test data, outperforming the benchmark classifier by 1.18%.
+
+Our paper link is here: [Link to paper]
